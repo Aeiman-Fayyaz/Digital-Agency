@@ -1,3 +1,18 @@
-.bg-body{
-    background-color: #19191B;
+@font-face {
+    font-family: "Inter";
+    src: url(Fonts/Inter_24pt-Regular.ttf);
 }
+
+
+*{
+    font-family: inter;
+    color: white;
+}
+.bg-body{
+    background-color: #19191B !important;
+}
+li{
+    color: white;
+}
+/* .gradient{
+    background-image: url(Images/Blue\ gradient.png);} */
