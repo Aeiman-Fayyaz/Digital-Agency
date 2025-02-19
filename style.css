@@ -2,6 +2,10 @@
     font-family: "Inter";
     src: url(Fonts/Inter_24pt-Regular.ttf);
 }
+@font-face {
+    font-family: "Inter-Light";
+    src: url(Fonts/Inter_18pt-Light.ttf);
+}
 
 
 *{
@@ -16,6 +20,10 @@ li{
 }
 .footer-color{
     background-color: #1E1E20;
+}
+p{
+    font-family: inter-light;
+    color: rgba(255, 255, 255, 0.76);
 }
 /* .gradient{
     background-image: url(Images/Blue\ gradient.png);} */
