@@ -25,5 +25,6 @@ p{
     font-family: inter-light;
     color: rgba(255, 255, 255, 0.76);
 }
-/* .gradient{
-    background-image: url(Images/Blue\ gradient.png);} */
+a{
+    color: rgba(255, 255, 255, 0.76) !important;
+}
